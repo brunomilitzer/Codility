@@ -7,6 +7,7 @@
 3. [Tape Equilibrium](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson3/tapeequilibrium.md)
 4. [Frog River One](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson4/maxcounter.md)
 5. [Max Counter](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson4/maxcounter.md)
+6. [Brackets](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson7/brackets.md)
 
 **Specifications**
 
