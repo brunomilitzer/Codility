@@ -16,4 +16,20 @@ class ChocolateByNumbersTest {
         assertEquals(5, chocolateByNumbers.solution(n, m));
     }
 
+    @Test
+    public void testScenario2() {
+        int n = 9;
+        int m = 6;
+
+        assertEquals(3, chocolateByNumbers.solution(n, m));
+    }
+
+    @Test
+    public void testScenario3() {
+        int n = 10;
+        int m = 11;
+
+        assertEquals(10, chocolateByNumbers.solution(n, m));
+    }
+
 }
