@@ -15,6 +15,7 @@
 11. [Dominator](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson8/dominator.md)
 12. [Max Profit](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson9/maxprofit.md)
 13. [Flags](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson10/flags.md)
+14. [Chocolate By Numbers](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson12/chocolatebynumbers.md)
 
 **Specifications**
 

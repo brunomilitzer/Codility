@@ -1,7 +1,5 @@
 package com.brunomilitzer.codility.lesson10;
 
-import java.util.Arrays;
-
 public class Flags {
 
     public int solution(int[] A) {
