@@ -18,7 +18,8 @@
 14. [Chocolate By Numbers](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson12/chocolatebynumbers.md)
 15. [Count Distinct Slices](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson15/countdistinctslices.md)
 16. [Min Absolute Sum of Two](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson15/minabssumoftwo.md)
-17. [Max Non Overlapping Segments](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson16/maxnonoverlappingsegment.md)
+17. [Max Non Overlapping Segments](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson16/maxnonoverlappingsegments.md)
+18. [Tie Ropes](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson16/tieropes.md)
 
 **Specifications**
 
