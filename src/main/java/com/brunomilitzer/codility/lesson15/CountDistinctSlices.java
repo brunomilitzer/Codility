@@ -1,23 +1,26 @@
 package com.brunomilitzer.codility.lesson15;
 
+import java.util.Arrays;
+
 public class CountDistinctSlices {
 
     public int solution(int M, int[] A) {
-        int back = 0;
-        int front = 0;
-        int slice = 0;
-        int sliceSize = 1;
-        int dSlice = 0;
+        int totalSlices = 0;
+        boolean[] inCurrentSlice = new boolean[M + 1];
+        Arrays.fill(inCurrentSlice, false);
+        int head = 0;
 
-        for (int i = 0; i < A.length; i++) {
-            slice = A[i];
+        for (int tail = 0; tail < A.length; tail++) {
+            while (head < A.length && !inCurrentSlice[A[head]]) {
+                inCurrentSlice[A[head]] = true;
+                totalSlices += (head - tail) + 1;
+                head++;
 
-            if (slice < M) {
-                slice += A[i + sliceSize];
-                sliceSize++;
+                if (totalSlices > 1000000000) totalSlices = 1000000000;
             }
+            inCurrentSlice[A[tail]] = false;
         }
 
-        return 0;
+        return totalSlices;
     }
 }
