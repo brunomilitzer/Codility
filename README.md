@@ -11,7 +11,7 @@
 7. [Count Div](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson5/countdiv.md)
 8. [Number of Disc Intersections](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson6/numberofdiscintersections.md)
 9. [Brackets](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson7/brackets.md)
-10. [Brackets](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson7/fish.md)
+10. [Fish](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson7/fish.md)
 11. [Dominator](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson8/dominator.md)
 12. [Max Profit](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson9/maxprofit.md)
 13. [Flags](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson10/flags.md)
@@ -21,4 +21,4 @@
 
 **Specifications**
 
-* Java 11
+* Java 17
