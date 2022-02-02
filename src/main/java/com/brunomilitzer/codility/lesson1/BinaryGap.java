@@ -5,18 +5,25 @@ public class BinaryGap {
     public int solution(int N) {
 
         String binaryString = Integer.toBinaryString(N);
-        int binaryGapCount = 0;
+        boolean started = false;
+
+        int counter = 0;
+        int maxCount = 0;
 
         for (char c : binaryString.toCharArray()) {
             if (c == '1') {
+                if (started) {
+                    if (counter > maxCount) maxCount = counter;
+                }
 
-            } else {
-                binaryGapCount++;
+                counter = 0;
+                started = true;
             }
-
-            System.out.println(c);
+            if (c == '0') {
+                counter++;
+            }
         }
 
-        return 0;
+        return maxCount;
     }
 }
