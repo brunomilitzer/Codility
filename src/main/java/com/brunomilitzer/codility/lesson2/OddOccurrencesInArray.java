@@ -1,20 +1,18 @@
 package com.brunomilitzer.codility.lesson2;
 
-import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class OddOccurrencesInArray {
 
+    private final Set<Integer> aList = new HashSet<>();
+
     public int solution(int[] A) {
-        Arrays.sort(A);
-
-        System.out.println(Arrays.toString(A));
-
-        int unpair = 0;
-
-        for (int i = 1; i < A.length - 1; i += 2) {
-            if (A[i] != A[i + 1]) unpair = A[i];
+        for (int a : A) {
+            if (aList.contains(a)) aList.remove(a);
+            else aList.add(a);
         }
 
-        return unpair;
+        return aList.iterator().next();
     }
 }
