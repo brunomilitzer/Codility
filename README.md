@@ -4,7 +4,7 @@
 
 1. [Binary Gap](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson1/binarygap.md)
 2. [Cyclic Rotation](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson2/cyclicrotation.md)
-3. [Odd Occurrences in Array](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson2/oddoccurencesinarray.md)
+3. [Odd Occurrences in Array](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson2/oddoccurrencesinarray.md)
 4. [Perm Missing Element](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson3/permmissingelem.md)
 5. [Tape Equilibrium](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson3/tapeequilibrium.md)
 6. [Frog River One](https://github.com/brunomilitzer/Codility/blob/master/src/main/java/com/brunomilitzer/codility/lesson4/maxcounter.md)
